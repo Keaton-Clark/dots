@@ -1,0 +1,15 @@
+{
+"suggest.enablePreselect": false,
+"suggest.noselect": true,
+"coc.source.vimtex.filetypes": [
+  "tex",
+  "plaintex",
+  "latex"
+],
+"snippets.userSnippetsDirectory": "~/.config/nvim/snips",
+"snippets.extends": {
+	"cpp": ["c"],
+	"c": ["cpp"]
+},
+"snippets.ultisnips.pythonPrompt": false
+}
